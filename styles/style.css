@@ -1,0 +1,16 @@
+@import "banner.css"; 
+@import "cards.css";
+@import "footer.css";
+
+a {
+	text-decoration: none;
+}
+
+body{
+	margin: 0;
+}
+
+.container {
+	width: 90%;
+	margin: 24px auto;
+}
