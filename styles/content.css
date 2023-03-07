@@ -1,0 +1,26 @@
+#content h2{
+margin-top: 40px;
+text-align: center; 
+
+}
+
+
+#content img{
+	display: block;
+	margin: auto;
+	height: 500px;
+	width: 900px;
+	margin-top: 30px;
+
+	
+}
+
+#content p{
+	text-align: justify;
+	line-height: 25px;
+	font-size: 17px;
+	margin-right: 143px; 
+	margin-left: 143px;  
+
+	
+}

@@ -1,16 +1,42 @@
 @import "banner.css"; 
 @import "cards.css";
-@import "footer.css";
-
-a {
-	text-decoration: none;
-}
+@import "features.css"; 
+@import "header.css";
+@import "footer.css"; 
+@import "record.css"; 
+@import "content.css";
 
 body{
+	text-decoration: none;
+	background-color: #f4f1ec;
 	margin: 0;
+
 }
 
-.container {
-	width: 90%;
-	margin: 24px auto;
+ h1 h2 h3 p {
+	font-family: noto;
 }
+
+.Title{
+	clear: both;
+	text-align: center;
+	margin-top: 40px;
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 320px — 480px) { ... }
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 481px — 768px) 
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 769px — 1024) { ... }
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1025px) { ... }
+
+
+
+
+
